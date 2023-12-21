@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecipeBook</string>
+    <string name="title_activity_recipes_one_gategoria">RecipesOneGategoria</string>
+    <string name="title_activity_meal_recipte">mealRecipte</string>
+    <string name="title_activity_meal_recipe">mealRecipe</string>
+    <string name="title_activity_categories">Categories</string>
+    <string name="title_activity_downloaded_recipe">downloaded_recipe</string>
+</resources>
